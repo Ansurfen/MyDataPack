@@ -1,0 +1,2 @@
+# MyDataPack
+Minecraft datapack
