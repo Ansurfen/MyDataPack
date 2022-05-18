@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "minecraft:cocoa_beans"
+        },
+        {
+            "item": "minecraft:skeleton_skull"
+        }
+    ],
+    "result": {
+        "item": "minecraft:player_head",
+        "count": 1
+    }
+}

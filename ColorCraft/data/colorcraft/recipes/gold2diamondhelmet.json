@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:golden_helmet"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        },
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:diamond_helmet",
+        "count": 1
+    }
+}
